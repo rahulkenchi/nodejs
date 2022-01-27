@@ -1,0 +1,7 @@
+{"age":"-1","city":"pune","name":"Rahul Kenchi","salary":"ZFSA"},
+{"age":"-1","city":"pune","name":"Rahul Kenchi","salary":"A"},
+{"age":"22","city":"pune","name":"lfslkf","salary":"3333333"},
+{"age":"-1","city":"pune","name":"Rahul Kenchi","salary":"sadasda"},
+{"age":"23","city":"pune","name":"vipul","salary":"150000"},
+{"age":"23","city":"delhi","name":"paras","salary":"150000"},
+{"age":"22","city":"pune","name":"ddsadsa","salary":"55555555"},
